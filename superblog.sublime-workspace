@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"U",
+				"uppercase"
+			],
+			[
+				"a",
+				"Articles"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"dro",
+				"dropdown-menu"
+			],
+			[
+				"ac",
+				"acupunktur"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"c",
+				"col-sm-6"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"s",
+				"stylesheet"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"pre",
+				"previous-link"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/grico/software/jekyll/sites/superblog/_config.yml",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/grico/software/jekyll/sites/superblog/Gemfile",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "snippet",
+		"selected_items":
+		[
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Auto",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/grico/software/jekyll/sites/superblog",
+		"/home/grico/software/jekyll/sites/superblog/_posts"
+	],
+	"file_history":
+	[
+		"/home/grico/.rvm/gems/ruby-2.4.0/gems/minimal-mistakes-jekyll-4.5.1/_includes/seo.html",
+		"/home/grico/.rvm/gems/ruby-2.4.0/gems/minimal-mistakes-jekyll-4.5.1/_includes/breadcrumbs.html",
+		"/home/grico/software/jekyll/sites/superblog/_posts/2017-08-21-welcome-to-jekyll.markdown",
+		"/home/grico/software/jekyll/sites/superblog/Gemfile",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/style.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/vorsorge.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_config.yml",
+		"/home/grico/software/jekyll/sites/hydejack_The_fast_One/_layouts/page.html",
+		"/home/grico/software/jekyll/sites/hydejack_The_fast_One/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/hydejack_The_fast_One/_layouts/compress.html",
+		"/home/grico/software/jekyll/sites/agency_theme/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/dentistsmile/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_posts/2017-06-05-Ordinationserffnung_2017.md",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/subpage-header.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/blog-posts.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_layouts/post.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/Gemfile",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/Gemfile.lock",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/css/main.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/normalize.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/acu.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/service.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/allgem.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/cv.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/nav.html",
+		"/home/grico/software/jekyll/sites/demosite1/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/contact-form.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/contact-info.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/faq.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/google-map.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/agency.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/accordion.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/call-to-action.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/impressumtext.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_data/template.yml",
+		"/home/grico/Documents/demosite1/_includes/nav.html",
+		"/home/grico/Documents/demosite1/portfolio.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/js/modernizr-2.6.2.min.js",
+		"/home/grico/Documents/demosite1/css/style.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/js/bootstrap.min.js",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/js/main.js",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/bower_components/jquery/.bower.json",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/footer-nav.html",
+		"/home/grico/Documents/demosite1/css/ionicons.min.css",
+		"/home/grico/software/jekyll/sites/agency_theme/_includes/css/agency.css",
+		"/home/grico/software/jekyll/sites/dentistsmile/_scss/base/_global.scss",
+		"/home/grico/software/jekyll/sites/dentistsmile/_scss/base/_typography.scss",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/portfolio.html",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/index.html",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/_includes/header.html",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/main.css",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/2-basics/_typography.sass",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/1-tools/_vars.sass",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/2-basics/_body-element.sass",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/2-basics/_buttons.sass",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/2-basics/_forms.sass",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/2-basics/_links.sass",
+		"/home/grico/software/jekyll/sites/DevTipsShowWebsite/assets/css/2-basics/_selection-colors.sass",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/gulpfile.js",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/assets",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/_scss/main.scss",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/_posts/2014-04-20-welcome-to-jekyll.markdown",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/package.json",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/_config.yml",
+		"/home/grico/software/jekyll/sites/jekyll-gulp-sass-browser-sync/.gitignore",
+		"/home/grico/software/jekyll/sites/dentistsmile/_includes/doctype-head.html",
+		"/home/grico/software/jekyll/sites/demosite/css/main.css",
+		"/home/grico/software/jekyll/sites/agency_theme/_includes/head.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/bower_components/bootstrap/bower.json",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/bower_components/bootstrap/ISSUE_TEMPLATE.md",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/font-awesome.min.css",
+		"/home/grico/software/jekyll/sites/agency_theme/_includes/css/bootstrap.min.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/animate.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/responsive.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/bootstrap.min.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/fonts/fontawesome-webfont.eot",
+		"/home/grico/software/jekyll/sites/compiled_site/contact.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/google-map.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_data/places.yml",
+		"/home/grico/software/jekyll/sites/compiled_site/Gemfile",
+		"/home/grico/software/jekyll/sites/compiled_site/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_config.yml",
+		"/home/grico/software/jekyll/sites/compiled_site/js/google-map-init.js",
+		"/home/grico/software/jekyll/sites/compiled_site/css/style.css",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/vorsorge.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/portfolio.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/service.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/call-to-action.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/allgem.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/acu.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/accordion.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/diabetes.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/nav.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_data/services.yml",
+		"/home/grico/software/jekyll/sites/compiled_site/diabetes.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_posts/2017-06-05-Ordinationseröffnung_2017.md",
+		"/home/grico/software/jekyll/sites/demosite/_includes/contact-form.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/contact-form.html",
+		"/home/grico/software/jekyll/sites/demosite1/thanks.html",
+		"/home/grico/software/jekyll/sites/demosite1/_includes/contact-form.html",
+		"/home/grico/software/jekyll/sites/demosite1/_includes/thank-you.html",
+		"/home/grico/software/jekyll/sites/demosite/_data/services.yml",
+		"/home/grico/software/jekyll/sites/demosite/_includes/call-to-action.html",
+		"/home/grico/software/jekyll/sites/demosite/_includes/service.html",
+		"/home/grico/software/jekyll/sites/demosite/_config.yml",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/footer-nav.html",
+		"/home/grico/software/jekyll/sites/demosite1/_includes/footer-nav.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_layouts/post.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/cv.html",
+		"/home/grico/software/jekyll/sites/compiled_site/portfolio.html",
+		"/home/grico/software/jekyll/sites/compiled_site/_includes/blog-posts.html",
+		"/home/grico/software/jekyll/sites/compiled_site/herzinsuffizienz.html",
+		"/home/grico/software/jekyll/sites/compiled_site/.gitignore",
+		"/home/grico/software/jekyll/sites/compiled_site/leistungen.html",
+		"/home/grico/Downloads/demosite/demosite/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/demosite/.gitignore",
+		"/home/grico/software/jekyll/sites/demosite/index.html",
+		"/home/grico/software/jekyll/sites/demosite/_site/img/slider-bg2.jpg",
+		"/home/grico/software/jekyll/sites/demosite/_site/img/tea1024x600web.png",
+		"/home/grico/software/jekyll/sites/demosite/img/logo11.png",
+		"/home/grico/software/jekyll/sites/demosite/img/slider-bg2.jpg",
+		"/home/grico/software/jekyll/sites/demosite/img/wrapper-img.png",
+		"/home/grico/software/jekyll/sites/demosite/_site/img/portfolio/aku1.jpg",
+		"/home/grico/software/jekyll/sites/demosite/_includes/nav.html",
+		"/home/grico/software/jekyll/sites/demosite/_layouts/default.html",
+		"/home/grico/software/jekyll/sites/demosite/css/agency.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section#global-header",
+			"blog",
+			".btn-xl",
+			"btn-xl",
+			"h2.section-heading",
+			"max-width:",
+			"border",
+			"img",
+			"clear",
+			"#post",
+			"article#post",
+			"service",
+			"section ",
+			"section #info",
+			"google",
+			"2",
+			"service-item",
+			"animated fadeInUp",
+			"section#intro",
+			"\"helvetica",
+			"font-family",
+			"roboto",
+			"font-weight",
+			"roboto",
+			"Font Awesome",
+			"Volkhov",
+			"gegenwertig",
+			"data-hover=\"dropdown\"",
+			"#data-hover=\"dropdown\"",
+			"#333",
+			"hover",
+			"navbar",
+			"data-toggle",
+			"nav",
+			"5c005c",
+			"green",
+			"Dr",
+			"mix",
+			"service.item",
+			"Ihr",
+			"subpage",
+			"col-md-6 col-sm-12",
+			"container",
+			"contact-",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/grico/software/jekyll/sites/superblog/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1548,
+								1548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/grico/software/jekyll/sites/superblog/Gemfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "superblog.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"data/.gitkeep"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Sublime_project/DevTipsShowWebsite.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
