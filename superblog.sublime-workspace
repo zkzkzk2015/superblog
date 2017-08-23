@@ -115,23 +115,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/grico/software/jekyll/sites/superblog/_config.yml",
-			"settings":
-			{
-				"buffer_size": 1662,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/grico/software/jekyll/sites/superblog/Gemfile",
-			"settings":
-			{
-				"buffer_size": 933,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -140,10 +123,38 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 75.0,
-		"last_filter": "snippet",
+		"height": 392.0,
+		"last_filter": "packag",
 		"selected_items":
 		[
+			[
+				"packag",
+				"Package Control: Enable Package"
+			],
+			[
+				"File",
+				"File: Close All"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Support Info"
+			],
+			[
+				"gitg",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
 			[
 				"snippet",
 				"Snippet: Lorem ipsum"
@@ -165,7 +176,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 485.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -187,16 +198,24 @@
 	"expanded_folders":
 	[
 		"/home/grico/software/jekyll/sites/superblog",
-		"/home/grico/software/jekyll/sites/superblog/_posts"
+		"/home/grico/software/jekyll/sites/superblog/_data",
+		"/home/grico/software/jekyll/sites/superblog/_layouts"
 	],
 	"file_history":
 	[
-		"/home/grico/.rvm/gems/ruby-2.4.0/gems/minimal-mistakes-jekyll-4.5.1/_includes/seo.html",
-		"/home/grico/.rvm/gems/ruby-2.4.0/gems/minimal-mistakes-jekyll-4.5.1/_includes/breadcrumbs.html",
+		"/home/grico/software/jekyll/sites/superblog/_config.yml",
 		"/home/grico/software/jekyll/sites/superblog/_posts/2017-08-21-welcome-to-jekyll.markdown",
 		"/home/grico/software/jekyll/sites/superblog/Gemfile",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/vendor/bundle/ruby/2.3.0/gems/faraday-0.12.1/lib/faraday/options.rb",
+		"/home/grico/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/grico/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/style.css",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/acu.html",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/vorsorge.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/cv.html",
+		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/allgem.html",
+		"/home/grico/.rvm/gems/ruby-2.4.0/gems/minimal-mistakes-jekyll-4.5.1/_includes/seo.html",
+		"/home/grico/.rvm/gems/ruby-2.4.0/gems/minimal-mistakes-jekyll-4.5.1/_includes/breadcrumbs.html",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_layouts/default.html",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_config.yml",
 		"/home/grico/software/jekyll/sites/hydejack_The_fast_One/_layouts/page.html",
@@ -212,10 +231,7 @@
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/Gemfile.lock",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/css/main.css",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/css/normalize.css",
-		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/acu.html",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/service.html",
-		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/allgem.html",
-		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/cv.html",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/nav.html",
 		"/home/grico/software/jekyll/sites/demosite1/_layouts/default.html",
 		"/home/grico/software/jekyll/sites/cssmain_demosite1/_includes/contact-form.html",
@@ -314,15 +330,11 @@
 		"/home/grico/software/jekyll/sites/demosite/_site/img/tea1024x600web.png",
 		"/home/grico/software/jekyll/sites/demosite/img/logo11.png",
 		"/home/grico/software/jekyll/sites/demosite/img/slider-bg2.jpg",
-		"/home/grico/software/jekyll/sites/demosite/img/wrapper-img.png",
-		"/home/grico/software/jekyll/sites/demosite/_site/img/portfolio/aku1.jpg",
-		"/home/grico/software/jekyll/sites/demosite/_includes/nav.html",
-		"/home/grico/software/jekyll/sites/demosite/_layouts/default.html",
-		"/home/grico/software/jekyll/sites/demosite/css/agency.css"
+		"/home/grico/software/jekyll/sites/demosite/img/wrapper-img.png"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -336,6 +348,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"section",
 			"section#global-header",
 			"blog",
 			".btn-xl",
@@ -398,65 +411,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/grico/software/jekyll/sites/superblog/_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1662,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1548,
-								1548
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 462.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/grico/software/jekyll/sites/superblog/Gemfile",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 933,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -534,12 +490,16 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"ConnectionOptions"
+			]
 		],
-		"width": 0.0
+		"width": 864.0
 	},
 	"selected_group": 0,
 	"settings":
