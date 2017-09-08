@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "de-AT"
-title                    : "Spanien"
+title                    : "El Sapo"
 title_separator          : "-"
 name                     : "Mag. Christiane Ortmann"
-description              : "Hilfreiche Informationen über Spanien"
+description              : "Interessante, hilfreiche Informationen über Spanisch und "
 url                      : "https://zkzkzk2015.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/superblog" # the subpath of your site, e.g. "/blog"
 repository               : "zkzkzk2015/superblog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,11 +79,11 @@ theme: "minimal-mistakes-jekyll"
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Christiane"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am glad you are here"
+  location         : "Freistadt, Österreich"
+  email            : "chortmann@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -246,3 +246,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
